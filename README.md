@@ -20,7 +20,7 @@ Este es un sensor creado por el fabricante de dispositivos electronicos BOSCH, e
 - 5V
 
 ## Conexión I2C a ESP32 
-![](/Img/ConexionLDE.PNG)
+![](/Img/ConexionLDE.png)
 
 ## Errores 
 
