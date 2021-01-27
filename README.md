@@ -1,4 +1,4 @@
-# Documentación LDE680
+# Documentación BME680
 
 ![](/Img/BME680.jpeg)
 
@@ -18,6 +18,9 @@ Este es un sensor creado por el fabricante de dispositivos electronicos BOSCH, e
 
 - 3V3
 - 5V
+
+## Conexión I2C a ESP32 
+![](/Img/ConexionLDE.PNG)
 
 ## Errores 
 
