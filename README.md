@@ -1,6 +1,6 @@
 # Documentación LDE680
 
-![](/Img/back.jpeg)
+![](/Img/back.png)
 
 Este es un sensor creado por el fabricante de dispositivos electronicos BOSCH, es capas de hacer lecturas ambientales en un pequeño empaquetado. Este pequeño sensor tiene la capacidad de leer las siguientes variables:
 - Temperatura
