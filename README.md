@@ -22,6 +22,15 @@ Este es un sensor creado por el fabricante de dispositivos electronicos BOSCH, e
 ## Conexión I2C a ESP32 
 ![](/Img/ConexionLDE.png)
 
+## Protocolo de comunicación I2C con ESP32
+Nombre | GPIO
+--- | ---
+SDI	 | SDA GPIO21
+SCK | SCL GPIO22
+3.3V | 3.3V
+GND | GND
+
+
 ## Errores 
 
 ### BME680 error code : -2
