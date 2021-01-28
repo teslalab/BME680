@@ -1,6 +1,6 @@
-# Documentación BME680
+# Documentación LDE680
 
-![](/Img/BME680.jpeg)
+![](/Img/back.jpeg)
 
 Este es un sensor creado por el fabricante de dispositivos electronicos BOSCH, es capas de hacer lecturas ambientales en un pequeño empaquetado. Este pequeño sensor tiene la capacidad de leer las siguientes variables:
 - Temperatura
@@ -18,9 +18,6 @@ Este es un sensor creado por el fabricante de dispositivos electronicos BOSCH, e
 
 - 3V3
 - 5V
-
-## Conexión I2C a ESP32 
-![](/Img/ConexionLDE.png)
 
 ## Errores 
 
