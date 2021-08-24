@@ -48,3 +48,13 @@ Seguido de esto nos buscar la linea de código que contenga ```begin(BME680_I2C_
 NOMBRE_DEL_OBJETO.begin( 0x77 , Wire);
 ```
 Generalmente la dirección que el BME680 trae de forma predeterminada es *** 0x77 *** , de lo contrario debes intentar con la dirección *** 0x76 ***
+
+# Licencia
+
+Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Link][CERN_v1].
+
+[CERN_v1]: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-1.2
+
+Software License: GPL v3
+
+Documentation License: CC BY 4.0 International
