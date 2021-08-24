@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=CS Pin=D1-1
+Removed Pin From Net: NetName=CS_3V Pin=D1-2
+Change Component Footprint: Designator=D1 Old Footprint=FP-SOD123-IPC_A New Footprint=FAIR-DO-214AC-2_V
+Change Component Footprint: Designator=C1 Old Footprint=KEMT-A-3216-18-2_M New Footprint=CAPC2013X140X50ML20T25
+Change Component Footprint: Designator=C2 Old Footprint=KEMT-A-3216-18-2_M New Footprint=CAPC2013X140X50ML20T25
+Change Component Comment : Designator=D1 Old Comment=1N4148W-13-F New Comment=S1G
+Change Component Comment : Designator=C1 Old Comment=T491A106K016AT New Comment=C0805C106K4PACTU
+Change Component Comment : Designator=C2 Old Comment=T491A106K016AT New Comment=C0805C106K4PACTU
+Change Component Designator: OldDesignator=BME680 NewDesignator=U
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D316C58A-6BC5-4F1D-BFAB-21F7E4CBEF25 New ItemGUID=3D875F93-F6BC-4C75-BD46-09F1EB64E180 Old RevisionGUID=4D4A28C8-B340-47C5-9993-537C8A19400B New RevisionGUID=FE753378-B756-415A-9D4A-DC78BDBBBC85
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D316C58A-6BC5-4F1D-BFAB-21F7E4CBEF25 New ItemGUID=3D875F93-F6BC-4C75-BD46-09F1EB64E180 Old RevisionGUID=4D4A28C8-B340-47C5-9993-537C8A19400B New RevisionGUID=FE753378-B756-415A-9D4A-DC78BDBBBC85
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1C88C77A-3F07-4409-8E84-CE2A43FBFCC2 New ItemGUID=D9CEC675-9D8A-419F-89EF-2C1901AD6C64 Old RevisionGUID=3B6DD2C4-BBFB-42EE-8E04-BC1DCF5293C2 New RevisionGUID=EC2C25B2-B418-42ED-9CF9-9D9008F91426
+Change component parameters: Designator = "C1" ("C1"); Footprint = "KEMT-A-3216-18-2_M"; UniqueID = "\DECDHXVS" ("\DECDHXVS")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL21A106KOQNNNG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "KEMT-A-3216-18-2_M"; UniqueID = "\IUAYFWJR" ("\IUAYFWJR")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CL21A106KOQNNNG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "FP-SOD123-IPC_A"; UniqueID = "\ACUJNSTY" ("\ACUJNSTY")
+Change component parameters (AddParameter): Name = "Average Rectified Current-Max"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://www.fairchildsemi.com/datasheets/S1/S1G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 2.10, 05/2015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Forward Voltage"; Value = "1.1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.375 x 2.725 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "DO-214AC-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "https://www.fairchildsemi.com/package-drawings/DO/DO214AC.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "S1G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation Max"; Value = "1400mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Current-Max"; Value = "1µA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Recovery Time-Max"; Value = "1.8µs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reverse Voltage-Max [Vrrm]"; Value = "400V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Trr"; Value = "1800ns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VRRM Max"; Value = "400V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=CS_3V Pin=D1-1
+Added Pin To Net: NetName=CS Pin=D1-2
+Added Room: Name=BB_BME680
